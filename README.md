@@ -1,6 +1,6 @@
 # Weather-bot-with-grammY
-```npm install```
-```touch .env```
-```vim .env```
-```Token="BOT_TOKEN"```
+```npm install```<br>
+```touch .env```<br>
+```vim .env```<br>
+```Token="BOT_TOKEN"```<br>
 ```node bot.js```
